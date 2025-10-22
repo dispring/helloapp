@@ -1,0 +1,14 @@
+C:\Users\gregory\Documents\VSCode\repos\git-actually\helloapp-black\hello\bin\Debug\net9.0\hello.exe
+C:\Users\gregory\Documents\VSCode\repos\git-actually\helloapp-black\hello\bin\Debug\net9.0\hello.deps.json
+C:\Users\gregory\Documents\VSCode\repos\git-actually\helloapp-black\hello\bin\Debug\net9.0\hello.runtimeconfig.json
+C:\Users\gregory\Documents\VSCode\repos\git-actually\helloapp-black\hello\bin\Debug\net9.0\hello.dll
+C:\Users\gregory\Documents\VSCode\repos\git-actually\helloapp-black\hello\bin\Debug\net9.0\hello.pdb
+C:\Users\gregory\Documents\VSCode\repos\git-actually\helloapp-black\hello\obj\Debug\net9.0\hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gregory\Documents\VSCode\repos\git-actually\helloapp-black\hello\obj\Debug\net9.0\hello.AssemblyInfoInputs.cache
+C:\Users\gregory\Documents\VSCode\repos\git-actually\helloapp-black\hello\obj\Debug\net9.0\hello.AssemblyInfo.cs
+C:\Users\gregory\Documents\VSCode\repos\git-actually\helloapp-black\hello\obj\Debug\net9.0\hello.csproj.CoreCompileInputs.cache
+C:\Users\gregory\Documents\VSCode\repos\git-actually\helloapp-black\hello\obj\Debug\net9.0\hello.dll
+C:\Users\gregory\Documents\VSCode\repos\git-actually\helloapp-black\hello\obj\Debug\net9.0\refint\hello.dll
+C:\Users\gregory\Documents\VSCode\repos\git-actually\helloapp-black\hello\obj\Debug\net9.0\hello.pdb
+C:\Users\gregory\Documents\VSCode\repos\git-actually\helloapp-black\hello\obj\Debug\net9.0\hello.genruntimeconfig.cache
+C:\Users\gregory\Documents\VSCode\repos\git-actually\helloapp-black\hello\obj\Debug\net9.0\ref\hello.dll
