@@ -6,4 +6,9 @@ class Program
     {
         Console.WriteLine("hello");
     }
+
+    public void GreetWhite()
+    {
+        Console.WriteLine("hello white");
+    }
 }
