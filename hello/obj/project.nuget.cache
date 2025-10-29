@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+mOnp3gGaXI=",
+  "dgSpecHash": "o0CSkuSJf2A=",
   "success": true,
   "projectFilePath": "C:\\Users\\gregory\\Documents\\VSCode\\repos\\git-actually\\helloapp-black\\hello\\hello.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\gregory\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.304\\microsoft.net.sdk.compilers.toolset.9.0.304.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
