@@ -12,3 +12,4 @@ C:\Users\gregory\Documents\VSCode\repos\git-actually\helloapp-black\hello\obj\De
 C:\Users\gregory\Documents\VSCode\repos\git-actually\helloapp-black\hello\obj\Debug\net9.0\hello.pdb
 C:\Users\gregory\Documents\VSCode\repos\git-actually\helloapp-black\hello\obj\Debug\net9.0\hello.genruntimeconfig.cache
 C:\Users\gregory\Documents\VSCode\repos\git-actually\helloapp-black\hello\obj\Debug\net9.0\ref\hello.dll
+C:\Users\gregory\Documents\VSCode\repos\git-actually\helloapp-black\hello\obj\Debug\net9.0\hello.sourcelink.json
